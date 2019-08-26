@@ -1,0 +1,13 @@
+C:\Users\iamer\Desktop\icon\masraf\udemy-masraf-otomasyonu\Udemy_MasrafOtomasyonu\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\iamer\Desktop\icon\masraf\udemy-masraf-otomasyonu\Udemy_MasrafOtomasyonu\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\iamer\Desktop\icon\masraf\udemy-masraf-otomasyonu\Udemy_MasrafOtomasyonu\BusinessLayer\bin\Debug\Common.dll
+C:\Users\iamer\Desktop\icon\masraf\udemy-masraf-otomasyonu\Udemy_MasrafOtomasyonu\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\iamer\Desktop\icon\masraf\udemy-masraf-otomasyonu\Udemy_MasrafOtomasyonu\BusinessLayer\bin\Debug\Entities.dll
+C:\Users\iamer\Desktop\icon\masraf\udemy-masraf-otomasyonu\Udemy_MasrafOtomasyonu\BusinessLayer\bin\Debug\Common.pdb
+C:\Users\iamer\Desktop\icon\masraf\udemy-masraf-otomasyonu\Udemy_MasrafOtomasyonu\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\iamer\Desktop\icon\masraf\udemy-masraf-otomasyonu\Udemy_MasrafOtomasyonu\BusinessLayer\bin\Debug\Entities.pdb
+C:\Users\iamer\Desktop\icon\masraf\udemy-masraf-otomasyonu\Udemy_MasrafOtomasyonu\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\iamer\Desktop\icon\masraf\udemy-masraf-otomasyonu\Udemy_MasrafOtomasyonu\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\iamer\Desktop\icon\masraf\udemy-masraf-otomasyonu\Udemy_MasrafOtomasyonu\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\iamer\Desktop\icon\masraf\udemy-masraf-otomasyonu\Udemy_MasrafOtomasyonu\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\iamer\Desktop\icon\masraf\udemy-masraf-otomasyonu\Udemy_MasrafOtomasyonu\BusinessLayer\obj\Debug\BusinessLayer.pdb

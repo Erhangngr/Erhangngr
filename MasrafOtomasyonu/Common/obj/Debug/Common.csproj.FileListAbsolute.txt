@@ -1,0 +1,6 @@
+C:\Users\iamer\Desktop\icon\masraf\udemy-masraf-otomasyonu\Udemy_MasrafOtomasyonu\Common\bin\Debug\Common.dll
+C:\Users\iamer\Desktop\icon\masraf\udemy-masraf-otomasyonu\Udemy_MasrafOtomasyonu\Common\bin\Debug\Common.pdb
+C:\Users\iamer\Desktop\icon\masraf\udemy-masraf-otomasyonu\Udemy_MasrafOtomasyonu\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\iamer\Desktop\icon\masraf\udemy-masraf-otomasyonu\Udemy_MasrafOtomasyonu\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\iamer\Desktop\icon\masraf\udemy-masraf-otomasyonu\Udemy_MasrafOtomasyonu\Common\obj\Debug\Common.dll
+C:\Users\iamer\Desktop\icon\masraf\udemy-masraf-otomasyonu\Udemy_MasrafOtomasyonu\Common\obj\Debug\Common.pdb
